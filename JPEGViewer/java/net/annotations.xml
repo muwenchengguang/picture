@@ -1,0 +1,5 @@
+<root>
+    <item name='java.net.URI'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
